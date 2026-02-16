@@ -19,7 +19,7 @@ export const createContact = async (contact: ContactType)  => {
 }
 
 export const updateContact = async (id: string | number, contact: ContactType) => {  // string | number
-  console.log("🔄 PUT URL:", `${API_URL}/contacts/${id}`);
+  console.log("PUT URL:", `${API_URL}/contacts/${id}`);
   const response = await axios.put(`${API_URL}/contacts/${id}`, contact);
   return response.data;
 };

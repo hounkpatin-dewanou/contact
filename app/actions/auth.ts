@@ -5,7 +5,7 @@ import { redirect } from "next/navigation";
 import { UserType } from "../_types/user";
 import { setSession, deleteSession } from "../_lib/session";
 
-const API_URL = "http://localhost:3001";
+const API_URL = "https://contact-api-64ey.onrender.com";
 
 export type LoginState = {
   error: string | null;
