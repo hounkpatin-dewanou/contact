@@ -1,0 +1,66 @@
+{
+  "contacts": [
+    {
+      "id": "7",
+      "name": "Angelo",
+      "email": "angelo@gmail.com",
+      "userId": 1
+    },
+    {
+      "id": "1",
+      "name": "Dèwanou",
+      "email": "dewanou@gmail.com",
+      "userId": 1
+    },
+    {
+      "id": "e377",
+      "name": "Gloria",
+      "email": "gloria@gmail.com",
+      "userId": 1
+    },
+    {
+      "id": "efae",
+      "name": "Prince",
+      "email": "prince@gmail.com",
+      "userId": 1
+    },
+    {
+      "id": "12",
+      "name": "ok",
+      "email": "ok@gmail.com",
+      "userId": 1
+    },
+    {
+      "id": "23",
+      "name": "ah",
+      "email": "ah@gmail.com",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f76f",
+      "name": "Hugues HOUNKPATIN",
+      "email": "huguesmariehounkpatin1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4d70",
+      "name": "Marie",
+      "email": "marie@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
