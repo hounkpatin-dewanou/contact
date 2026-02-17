@@ -1,7 +1,7 @@
 import axios from "axios";
 import { ContactType } from "../_types/contact";
 
-const API_URL = "http://localhost:3001";
+const API_URL = "https://contact-api-64ey.onrender.com";
 
 export const getContacts = async (userId: number)  => {
     const response = await axios.get(`${API_URL}/contacts?userId=${userId}`);
